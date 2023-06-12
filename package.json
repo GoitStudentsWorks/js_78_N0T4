@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/N0T4/Cinemania",
+  "homepage": "https://GoitStudentsWorks.github.io/js_78_N0T4",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Cinemania/"
+    "build": "parcel build src/*.html --public-url /js_78_N0T4/"
   },
   "repository": {
     "type": "git",
